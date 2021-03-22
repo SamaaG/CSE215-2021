@@ -1,4 +1,6 @@
 # CSE215-2021
+## The following are the steps to run the python script in this repo and create a connection to the postgres database throught python. 
+
 1. install python
   
       a. sudo apt update
